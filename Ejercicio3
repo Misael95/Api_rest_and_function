@@ -1,0 +1,41 @@
+Ejercicio #3: API REST NodeJS
+
+Actividad: Utilizando NodeJS, levantar un API REST con los siguientes métodos y cada uno con una acción en específico las cuales se describen a continuación:
+
+● GET :
+
+○ Código de respuesta 204,
+
+○ Retornar una respuesta con un objeto ( cualquiera ).
+
+● POST:
+
+○ Retorna un código de respuesta: 200 en caso de aceptar valores.
+
+○ Retorna un código de respuesta: 400 en caso de que los valores no sean numéricos.
+
+○ Deberá recibir por Body 2 números (num1, num2).
+
+○ Deberá realizar con los números las siguientes operaciones:
+
+■ suma
+
+■ resta
+
+■ división
+
+■ multiplicación
+
+■ residuo
+
+○ Deberá retornar un objeto con el resultado de cada una de las operaciones como en el siguiente ejemplo:
+
+● PUT:
+
+○ Retorna un código de respuesta: 200 en caso de aceptar valores.
+
+○ Retorna un código de respuesta: 400 en caso de que los valores no sean strings.
+
+○ Recibir dos strings por parámetro (param1, param2).
+
+○ Retornar la concatenación de ambos strings separada por un espacio.

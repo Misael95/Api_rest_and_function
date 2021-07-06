@@ -1,0 +1,25 @@
+Ejercicio #1: La librería de Juan
+
+Juan tiene unos libros en específico que no se han colocado en su lugar, los cuales son:
+
+● La caída de los gigantes
+
+● El apostador
+
+● El apostador
+
+● El psicoanalista
+
+● El psicoanalista
+
+● Viaje al fin de la noche
+
+● La caída de los gigantes
+
+● Puente a la realidad
+
+● La caída de los gigantes
+
+● El psicoanalista
+
+Actividad: Crear una función que reciba cada uno de los parámetros (nombre de los libros), los almacene en un arreglo y retorna como resultado un objeto un objeto como se muestra a continuación.
